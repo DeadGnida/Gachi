@@ -15,7 +15,7 @@ namespace ConsoleApp1._0
             while (w++ < 99)
                 if ((w % 10) * (w / 10) % 2 == 0)
                     Console.Write(w + " ");
-            //Вот тут всё неправильно выводит
+            //Вот тут всё правильно выводит
             Console.WriteLine();
             Console.Write("for: ");
             var f = 10;
@@ -34,8 +34,5 @@ namespace ConsoleApp1._0
                 Console.ReadLine();
             
         }
-        тут был нефор
-            осуждаю 
-        ормпрпмаропорпао
     }
 }
