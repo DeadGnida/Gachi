@@ -31,20 +31,8 @@ namespace ConsoleApp1._0
                 Console.Write(d + " ");
             
             //Всё выводиться неверно
-                Console.ReadLine();
-            
+                Console.ReadLine();   
         }
-        555
-            ytajh
-            
-            
-            
-            
-            
-            
-            
-             Вова 
-            лох 
     }
 }
 
