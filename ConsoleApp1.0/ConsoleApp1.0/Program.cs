@@ -35,6 +35,6 @@ namespace ConsoleApp1._0
             
         }
         555
-            
+            Вова лох 
     }
 }
