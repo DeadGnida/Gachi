@@ -33,6 +33,6 @@ namespace ConsoleApp1._0
             //Всё выводиться неверно
                 Console.ReadLine();   
         }
-    }вова бот ебанный
+    }
 }
 
