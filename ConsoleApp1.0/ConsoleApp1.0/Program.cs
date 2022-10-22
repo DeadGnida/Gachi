@@ -34,7 +34,7 @@ namespace ConsoleApp1._0
                 Console.ReadLine();
             
         }
-        тут был путин 
+        тут был нефор
         ормпрпмаропорпао
     }
 }
